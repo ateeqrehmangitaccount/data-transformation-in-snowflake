@@ -1,0 +1,4 @@
+snowflake account is required 
+snowflake provides 30 days free trial 
+visit the link and create free trial account to execute data transformation in snowflake example
+https://www.snowflake.com/en/
